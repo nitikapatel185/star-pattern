@@ -1,0 +1,2 @@
+# star-pattern
+in java
